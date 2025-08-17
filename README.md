@@ -3,7 +3,7 @@
 
 This project is a C++/OpenGL 3D chess scene with lighting, reflections, shadows, a skybox (cubemap), and an in-world billboarding system for game messages. It builds with CMake and the included third-party libraries (GLFW, GLAD, stb).
 
-![Preview](chess-3D-Preview.png)
+![3D Chess Screenshot](https://github.com/DebbyMiressa/Chess3D/blob/master/chess-3D-Preview%20.png)
 
 ## Features
 - Lighting and Reflections (combined in `LightingAndReflection`)
